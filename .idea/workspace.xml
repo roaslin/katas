@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="560fc468-c5c5-402c-adcc-8152971911e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmaskata.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/xmaskata$LightsGridShould.ic" NAME="LightsGridShould Coverage Results" MODIFIED="1543741966501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.kata.xmas.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="306937892">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1103" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1103" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xmaskata" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGrid.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xmas-kata" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="1922" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xmaskata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xmaskata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xmaskata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xmaskata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kata.xmas" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kata.xmas" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LightsGridShould.not_allow_negative_brightness">
+    <configuration name="LightsGridShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xmaskata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kata.xmas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kata.xmas" />
+      <option name="MAIN_CLASS_NAME" value="com.kata.xmas.LightsGridShould" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LightsGridShould.not_allow_negative_brightness" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xmaskata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kata.xmas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kata.xmas" />
+      <option name="MAIN_CLASS_NAME" value="com.kata.xmas.LightsGridShould" />
+      <option name="METHOD_NAME" value="not_allow_negative_brightness" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LightsGridShould.return_current_grid_total_brightness" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xmaskata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kata.xmas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kata.xmas" />
+      <option name="MAIN_CLASS_NAME" value="com.kata.xmas.LightsGridShould" />
+      <option name="METHOD_NAME" value="return_current_grid_total_brightness" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LightsGridShould.return_the_number_of_lights_that_are_on" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xmaskata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kata.xmas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kata.xmas" />
+      <option name="MAIN_CLASS_NAME" value="com.kata.xmas.LightsGridShould" />
+      <option name="METHOD_NAME" value="return_the_number_of_lights_that_are_on" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LightsGridShould.toggle_lights_at_coordinates_pair" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xmaskata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kata.xmas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kata.xmas" />
+      <option name="MAIN_CLASS_NAME" value="com.kata.xmas.LightsGridShould" />
+      <option name="METHOD_NAME" value="toggle_lights_at_coordinates_pair" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LightsGridShould" />
+      <item itemvalue="JUnit.LightsGridShould.toggle_lights_at_coordinates_pair" />
+      <item itemvalue="JUnit.LightsGridShould.return_the_number_of_lights_that_are_on" />
+      <item itemvalue="JUnit.LightsGridShould.return_current_grid_total_brightness" />
+      <item itemvalue="JUnit.LightsGridShould.not_allow_negative_brightness" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LightsGridShould.not_allow_negative_brightness" />
+        <item itemvalue="JUnit.LightsGridShould" />
+        <item itemvalue="JUnit.LightsGridShould.return_current_grid_total_brightness" />
+        <item itemvalue="JUnit.LightsGridShould.return_the_number_of_lights_that_are_on" />
+        <item itemvalue="JUnit.LightsGridShould.toggle_lights_at_coordinates_pair" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="560fc468-c5c5-402c-adcc-8152971911e1" name="Default Changelist" comment="" />
+      <created>1543690851478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543690851478</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LightsGridShould_return_current_grid_total_brightness - 2018.12.02 at 18h 36m 42s.xml">
+      <configuration name="LightsGridShould.return_current_grid_total_brightness" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LightsGridShould_return_current_grid_total_brightness - 2018.12.02 at 18h 39m 30s.xml">
+      <configuration name="LightsGridShould.return_current_grid_total_brightness" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LightsGridShould_return_current_grid_total_brightness - 2018.12.02 at 18h 44m 00s.xml">
+      <configuration name="LightsGridShould.return_current_grid_total_brightness" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LightsGridShould_return_current_grid_total_brightness - 2018.12.02 at 18h 48m 23s.xml">
+      <configuration name="LightsGridShould.return_current_grid_total_brightness" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LightsGridShould_return_current_grid_total_brightness - 2018.12.02 at 18h 48m 52s.xml">
+      <configuration name="LightsGridShould.return_current_grid_total_brightness" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LightsGridShould_return_current_grid_total_brightness - 2018.12.02 at 18h 52m 42s.xml">
+      <configuration name="LightsGridShould.return_current_grid_total_brightness" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LightsGridShould_not_allow_negative_brightness - 2018.12.02 at 18h 56m 04s.xml">
+      <configuration name="LightsGridShould.not_allow_negative_brightness" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LightsGridShould - 2018.12.02 at 18h 56m 41s.xml">
+      <configuration name="LightsGridShould" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LightsGridShould_not_allow_negative_brightness - 2018.12.02 at 18h 58m 45s.xml">
+      <configuration name="LightsGridShould.not_allow_negative_brightness" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LightsGridShould_not_allow_negative_brightness - 2018.12.02 at 18h 58m 51s.xml">
+      <configuration name="LightsGridShould.not_allow_negative_brightness" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2630458" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32903227" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32903227" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4984375" weight="0.24973376" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" sideWeight="0.4984375" weight="0.32960597" />
+      <window_info anchor="right" id="Coverage" order="5" sideWeight="0.5015625" side_tool="true" visible="true" weight="0.32960597" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this.lights[m][n] + 2" />
+        <watch expression="lights[m][n]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGrid.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>xmaskata</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apiguardian:apiguardian-api:1.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
