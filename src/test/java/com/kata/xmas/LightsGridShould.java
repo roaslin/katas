@@ -12,7 +12,7 @@ public class LightsGridShould {
 
         // given
 
-        LightsGrid grid = new LightsGrid();
+        LightsGrid grid = LightsGrid.of(1000,1000);
 
         // thenit
 
@@ -28,7 +28,7 @@ public class LightsGridShould {
 
         // given
 
-        LightsGrid grid = new LightsGrid();
+        LightsGrid grid = LightsGrid.of(1000,1000);
 
         // when
 
@@ -48,7 +48,7 @@ public class LightsGridShould {
 
         // given
 
-        LightsGrid grid = new LightsGrid();
+        LightsGrid grid = LightsGrid.of(1000,1000);
 
         // when
 
@@ -67,7 +67,7 @@ public class LightsGridShould {
 
         // given
 
-        LightsGrid grid = new LightsGrid();
+        LightsGrid grid = LightsGrid.of(1000,1000);
 
         // when
 
@@ -98,7 +98,7 @@ public class LightsGridShould {
 
         // given
 
-        LightsGrid grid = new LightsGrid();
+        LightsGrid grid = LightsGrid.of(1000,1000);
 
         // when
 
@@ -116,7 +116,7 @@ public class LightsGridShould {
 
         // given
 
-        LightsGrid grid = new LightsGrid();
+        LightsGrid grid = LightsGrid.of(1000,1000);
 
         // when
 
@@ -135,7 +135,7 @@ public class LightsGridShould {
 
         // given
 
-        LightsGrid grid = new LightsGrid();
+        LightsGrid grid = LightsGrid.of(1000,1000);
 
         // when
 

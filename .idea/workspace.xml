@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="560fc468-c5c5-402c-adcc-8152971911e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xmaskata.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,9 +31,10 @@
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,13 +49,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1103" />
+          <entry key="java" value="1261" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1103" />
+          <entry key="JAVA" value="1261" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -80,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state relative-caret-position="165">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -107,8 +106,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGrid.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java" />
       </list>
     </option>
   </component>
@@ -132,8 +131,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
-    <option name="width" value="1922" />
-    <option name="height" value="1056" />
+    <option name="width" value="1011" />
+    <option name="height" value="958" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -142,7 +141,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,15 +148,11 @@
               <item name="xmaskata" type="b2602c69:ProjectViewProjectNode" />
               <item name="xmaskata" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="xmaskata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xmaskata" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LightsGridShould.not_allow_negative_brightness">
+  <component name="RunManager" selected="JUnit.LightsGridShould">
     <configuration name="LightsGridShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="xmaskata" />
       <extension name="coverage">
@@ -275,8 +269,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LightsGridShould.not_allow_negative_brightness" />
         <item itemvalue="JUnit.LightsGridShould" />
+        <item itemvalue="JUnit.LightsGridShould.not_allow_negative_brightness" />
         <item itemvalue="JUnit.LightsGridShould.return_current_grid_total_brightness" />
         <item itemvalue="JUnit.LightsGridShould.return_the_number_of_lights_that_are_on" />
         <item itemvalue="JUnit.LightsGridShould.toggle_lights_at_coordinates_pair" />
@@ -329,13 +323,13 @@
     <frame x="-1" y="0" width="1922" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2630458" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657082" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Structure" order="2" weight="0.24973376" />
+      <window_info id="Favorites" order="3" weight="0.31363153" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -343,7 +337,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32903227" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32903227" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32903227" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32903227" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4984375" weight="0.24973376" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -378,7 +372,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java</url>
-          <line>66</line>
+          <line>75</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
@@ -397,13 +391,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGrid.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -411,10 +398,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kata/xmas/LightsGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/kata/xmas/LightsGridShould.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

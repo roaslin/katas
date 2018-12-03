@@ -2,8 +2,17 @@ package com.kata.xmas;
 
 public final class LightsGrid {
 
-    private int[][] lights = new int[1000][1000];
+    private int[][] lights;
 
+    private LightsGrid(int row, int columns) {
+
+        this.lights = new int[row][columns];
+    }
+
+    public static LightsGrid of(int row, int columns){
+
+        return new LightsGrid(row, columns);
+    }
 
     public int[][] getLights() {
         return lights;
